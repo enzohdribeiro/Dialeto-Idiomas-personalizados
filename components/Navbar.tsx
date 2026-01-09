@@ -3,7 +3,7 @@ import React from 'react';
 import { Phone, Instagram, Facebook } from 'lucide-react';
 
 const Navbar: React.FC = () => {
-  const logoUrl = "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/341316301_4462867203837005_4245424553688041673_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Xd4a1RWnMpIQ7kNvwEHjDNy&_nc_oc=Adkgz7SFHezTGdx1gZiDFrxOlgFg7Uh9Q0U6ePbmneYjyNMbcftgyYXGowo6v2E_JnyvRZFhWn5hj-6qqZJBkkSc&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=mh0sq7riPpItxwlg668Cfw&oh=00_Afmou8y8XGgM25C9Z3aRid-mSksQ1Kcqb93oZG_q3zUJxg&oe=69587286";
+  const logoUrl = "imgs/dialeto_logo";
 
   return (
     <nav className="sticky top-0 z-50 bg-[#F8F7F2]/95 backdrop-blur-md shadow-sm border-b border-black/5">

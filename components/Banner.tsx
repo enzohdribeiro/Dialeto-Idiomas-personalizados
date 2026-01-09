@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Banner: React.FC = () => {
-  const bannerUrl = "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/340766604_139518252403864_2108269236411058950_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ySdWAouOvoEQ7kNvwEuA0gM&_nc_oc=Adk5fmw0p_ms-eRG8jihZDkjATpXzP9nkYkoXiu5QP4GfA1VVLtpMAJyKIpRU2axebO6_atEYNeYmn989gVQmOqO&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=M26sE2LMLqBBVKiOb2Z7RQ&oh=00_AfkN5PfEJw6x23G2AIeWuz3cRRw_1soyI4vscpXmudajJA&oe=695881C2";
+  const bannerUrl = "img/dialeto_banner.jpg"
 
   return (
     <section className="relative w-full px-2 md:px-8 pt-4 md:pt-6">

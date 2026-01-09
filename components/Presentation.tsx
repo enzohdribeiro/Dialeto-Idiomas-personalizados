@@ -9,8 +9,8 @@ const Presentation: React.FC = () => {
           <div className="relative group">
             <div className="absolute -inset-4 bg-[#FDB913]/20 rounded-[3rem] -rotate-2 group-hover:rotate-0 transition-transform duration-500"></div>
             <img 
-              src="https://images.unsplash.com/photo-1744181526018-9a6efb9fdb3f?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-              alt="Estudantes conversando" 
+              src="img/dialeto_presentation.jpg" 
+              alt="Corredor com bandeiras de países" 
               className="relative rounded-[2.5rem] shadow-xl z-10 w-full object-cover aspect-[4/3]"
             />
           </div>
