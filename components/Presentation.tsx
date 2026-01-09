@@ -9,7 +9,7 @@ const Presentation: React.FC = () => {
           <div className="relative group">
             <div className="absolute -inset-4 bg-[#FDB913]/20 rounded-[3rem] -rotate-2 group-hover:rotate-0 transition-transform duration-500"></div>
             <img 
-              src="./img/dialeto_presentation.jpg" 
+              src="/imgs/dialeto_presentation.jpg" 
               alt="Corredor com bandeiras de países" 
               className="relative rounded-[2.5rem] shadow-xl z-10 w-full object-cover aspect-[4/3]"
             />

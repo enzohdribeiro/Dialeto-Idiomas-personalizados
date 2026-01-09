@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Banner: React.FC = () => {
-  const bannerUrl = "./img/dialeto_banner.png"
+  const bannerUrl = "/imgs/dialeto_banner.png"
 
   return (
     <section className="relative w-full px-2 md:px-8 pt-4 md:pt-6">

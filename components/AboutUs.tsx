@@ -74,7 +74,7 @@ const AboutUs: React.FC = () => {
           <div className="relative group">
             <div className="absolute -inset-4 bg-[#B91C1C]/10 rounded-[3rem] rotate-2 group-hover:rotate-0 transition-transform duration-500"></div>
             <img
-              src="./img/dialeto_aboutus.jpg"
+              src="/imgs/dialeto_aboutus.jpg"
               alt="Nossa Equipe e Ambiente"
               className="relative rounded-[2.5rem] shadow-2xl z-10 w-full object-cover"
             />
